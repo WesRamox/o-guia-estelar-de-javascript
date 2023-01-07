@@ -6,6 +6,7 @@ let techs = ["html", "css", "js"]
 techs.push("nodejs")
 // adicionar no começo
 techs.unshift("sql")
+
 // remover do fim
 // techs.pop()
 // remover do começo
